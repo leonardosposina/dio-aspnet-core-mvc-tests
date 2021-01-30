@@ -1,18 +1,31 @@
-# dotnet-vaquinha-tests
-Projeto Base para Testes - .Net Core  
+# Digital Innovation One
 
-## Digital Innovation One
+## Implementando testes de unidade e testes integrados em um projeto .NET MVC de *crowdfunding*
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+### Projeto ASP.NET Core MVC
 
-## Eliézer Zarpelão
-[GitHub Timeline](https://elizarp.github.io/timeline/)  
-[Linkedin](http://br.linkedin.com/in/eliezerzarpelao)  
-[Github](https://github.com/elizarp) 
+Execute o projeto com o comando abaixo:
 
-## Marcos Freire
-[Linkedin](https://www.linkedin.com/in/marcos-freire-a73891125/)  
-[Github](https://github.com/marcosfreire) 
+```console
+dotnet run
+```
 
-## Slides
-[Slides em PDF](TesteNetCore.pdf)
+Execute os testes com o seguinte comando:
+
+```console
+dotnet test
+```
+
+---
+
+### 📚 Referências
+
+- [Microsoft .NET Core](https://docs.microsoft.com/en-us/dotnet/)
+- [Selenium](https://www.selenium.dev/)
+
+---
+
+### Autores
+
+- [Eliézer Zarpelão](https://github.com/elizarp)
+- [Marcos Freire](https://github.com/marcosfreire)
